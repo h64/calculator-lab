@@ -74,6 +74,15 @@ function add(num1, num2) { ... }
 ...
 ```
 
+copy-pasteable section
+```
+/*--- constants ---*/
+/*--- app's state ---*/
+/*--- cached element references ---*/
+/*--- event listeners ---*/
+/*--- functions ---*/
+```
+
 ## Key Principles:
 * State is the single-source of truth within our app! Make sure every time the user interacts with the calculator, app's state is updated.
 
